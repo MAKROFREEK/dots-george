@@ -1,6 +1,8 @@
  **LetsHaveKiddos** | **George**
 ===========================
 
+This is a revised version of my George theme. 
+
 
 A theme made for a cat named George. 
 A stray decided to follow me into my house one day and even though we've given him opportunities to leave he's chosen to stay. 
