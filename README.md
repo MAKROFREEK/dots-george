@@ -16,9 +16,6 @@
 * Zathura
 * Neovim
 
-My handsome kitty gato:
-![image](https://imgur.com/gallery/ZSq3jzI)
-
 ## Screens:
 
 ![image](screenshots/reddit-screenshots.png)
